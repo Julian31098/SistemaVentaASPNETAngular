@@ -1,0 +1,2 @@
+Scaffold-DbContext "Server=(local); DataBase=DBVENTA; Trusted_Connection=True; 
+TrustServerCertificate=True;" Microsoft.EntityFrameworkCore.SqlServer

@@ -1,0 +1,15 @@
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.deps.json
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.runtimeconfig.json
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.AssemblyReference.cache
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfoInputs.cache
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.AssemblyInfo.cs
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.csproj.CoreCompileInputs.cache
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.sourcelink.json
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\refint\SistemaVenta.Model.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.pdb
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\SistemaVenta.Model.genruntimeconfig.cache
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.Model\obj\Debug\net8.0\ref\SistemaVenta.Model.dll

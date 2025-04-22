@@ -1,0 +1,12 @@
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.deps.json
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfoInputs.cache
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.AssemblyInfo.cs
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.CoreCompileInputs.cache
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.sourcelink.json
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\refint\SistemaVenta.DAL.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.pdb
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\ref\SistemaVenta.DAL.dll
