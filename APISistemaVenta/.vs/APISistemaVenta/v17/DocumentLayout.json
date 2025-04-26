@@ -3,52 +3,24 @@
   "WorkspaceRootPath": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\dbcontext\\dbventacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\ventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.dal\\sistemaventa.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\sistemaventa.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{86885895-2437-4643-AF6C-B98975B1C42C}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{86885895-2437-4643-AF6C-B98975B1C42C}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.dal\\repositorios\\contrato\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\contrato\\iventarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE0E73D2-C505-48E7-8260-9EC164DF1866}|SistemaVenta.DAL\\SistemaVenta.DAL.csproj|solutionrelative:sistemaventa.dal\\repositorios\\contrato\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{3A118DFB-A901-4B60-AE7A-C2B44D719E2A}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3A118DFB-A901-4B60-AE7A-C2B44D719E2A}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\dependencia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.model\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2499BA44-A121-40AF-BC3A-D8151AE5B98A}|SistemaVenta.Model\\SistemaVenta.Model.csproj|solutionrelative:sistemaventa.model\\detalleventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3A118DFB-A901-4B60-AE7A-C2B44D719E2A}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.ioc\\sistemaventa.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{3A118DFB-A901-4B60-AE7A-C2B44D719E2A}|SistemaVenta.IOC\\SistemaVenta.IOC.csproj|solutionrelative:sistemaventa.ioc\\sistemaventa.ioc.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C25F60C3-5397-40CB-8F62-8528A291AFCD}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.utility\\sistemaventa.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C25F60C3-5397-40CB-8F62-8528A291AFCD}|SistemaVenta.Utility\\SistemaVenta.Utility.csproj|solutionrelative:sistemaventa.utility\\sistemaventa.utility.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86885895-2437-4643-AF6C-B98975B1C42C}|SistemaVenta.API\\SistemaVenta.API.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86885895-2437-4643-AF6C-B98975B1C42C}|SistemaVenta.API\\SistemaVenta.API.csproj|solutionrelative:sistemaventa.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5C7EBE14-8355-4262-A8A4-2FD909844FCC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|c:\\sistemaventasc#angular\\apisistemaventa\\sistemaventa.bll\\sistemaventa.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{5C7EBE14-8355-4262-A8A4-2FD909844FCC}|SistemaVenta.BLL\\SistemaVenta.BLL.csproj|solutionrelative:sistemaventa.bll\\sistemaventa.bll.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,162 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\Producto.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.Model\\Producto.cs",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\Producto.cs",
-              "RelativeToolTip": "SistemaVenta.Model\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\GenericRepository.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:56:55.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.Model\\Categoria.cs",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\Categoria.cs",
-              "RelativeToolTip": "SistemaVenta.Model\\Categoria.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:54:19.833Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Dependencia.cs",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
-              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:50:58.904Z",
+              "WhenOpened": "2025-04-25T20:51:57.26Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.API\\appsettings.json",
-              "RelativeDocumentMoniker": "SistemaVenta.API\\appsettings.json",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.API\\appsettings.json",
-              "RelativeToolTip": "SistemaVenta.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-22T18:47:38.54Z",
+              "Title": "IVentaRepository.cs",
+              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IVentaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:51:55.212Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "SistemaVenta.DAL",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "RelativeToolTip": "SistemaVenta.DAL\\SistemaVenta.DAL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABSAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T18:35:37.159Z",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\Contrato\\IGenericRepository.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:51:50.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dependencia.cs",
+              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.IOC\\Dependencia.cs",
+              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.IOC\\Dependencia.cs",
+              "RelativeToolTip": "SistemaVenta.IOC\\Dependencia.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-25T20:46:08.679Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DbventaContext.cs",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "RelativeToolTip": "SistemaVenta.DAL\\DBContext\\DbventaContext.cs",
-              "ViewState": "AgIAAJQAAAAAAAAAAAAowKEAAAA2AAAAAAAAAA==",
+              "Title": "VentaRepository.cs",
+              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeDocumentMoniker": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "RelativeToolTip": "SistemaVenta.DAL\\Repositorios\\VentaRepository.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:37:10.477Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\Venta.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.Model\\Venta.cs",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\Venta.cs",
-              "RelativeToolTip": "SistemaVenta.Model\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:54:40.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "DetalleVenta.cs",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\DetalleVenta.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.Model\\DetalleVenta.cs",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Model\\DetalleVenta.cs",
-              "RelativeToolTip": "SistemaVenta.Model\\DetalleVenta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:54:36.377Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.API\\Program.cs",
-              "RelativeDocumentMoniker": "SistemaVenta.API\\Program.cs",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.API\\Program.cs",
-              "RelativeToolTip": "SistemaVenta.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-22T18:47:37.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "SistemaVenta.Utility",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
-              "RelativeDocumentMoniker": "SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
-              "RelativeToolTip": "SistemaVenta.Utility\\SistemaVenta.Utility.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T18:44:36.773Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SistemaVenta.IOC",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
-              "RelativeDocumentMoniker": "SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
-              "RelativeToolTip": "SistemaVenta.IOC\\SistemaVenta.IOC.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T18:42:18.588Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "SistemaVenta.BLL",
-              "DocumentMoniker": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
-              "RelativeDocumentMoniker": "SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
-              "ToolTip": "C:\\SistemaVentasC#Angular\\APISistemaVenta\\SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
-              "RelativeToolTip": "SistemaVenta.BLL\\SistemaVenta.BLL.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-04-22T18:41:28.782Z",
+              "WhenOpened": "2025-04-25T20:13:10.621Z",
               "EditorCaption": ""
             }
           ]

@@ -10,3 +10,7 @@ C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\Sist
 C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\refint\SistemaVenta.DAL.dll
 C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.pdb
 C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\ref\SistemaVenta.DAL.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.dll
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\bin\Debug\net8.0\SistemaVenta.Model.pdb
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaVenta.DAL.csproj.AssemblyReference.cache
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.DAL\obj\Debug\net8.0\SistemaV.EE7A9206.Up2Date
