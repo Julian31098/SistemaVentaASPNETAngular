@@ -17,7 +17,9 @@ public partial class Usuario
 
     public bool? EsActivo { get; set; }
 
+    //No debesn ser visuales para el angular
     public DateTime? FechaRegistro { get; set; }
 
+    //No deben ser visuales para el angular
     public virtual Rol? IdRolNavigation { get; set; }
 }

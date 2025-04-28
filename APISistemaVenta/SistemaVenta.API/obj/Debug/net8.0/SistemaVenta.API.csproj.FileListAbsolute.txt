@@ -101,3 +101,4 @@ C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\Sist
 C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.DAL.pdb
 C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Model.pdb
 C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\SistemaVenta.Utility.pdb
+C:\SistemaVentasC#Angular\APISistemaVenta\SistemaVenta.API\bin\Debug\net8.0\AutoMapper.dll
